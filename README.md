@@ -1,2 +1,0 @@
-# C-Sum
-Simple Start
